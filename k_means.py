@@ -29,7 +29,7 @@ def k_means(X, init_c, num_classes, n_iters=50):
 
         last_c = np.copy(centers)
 
-    return centers, partition_points(X, assignments)
+    return centers, partition_points(X, assignments, num_classes)
 
 # Helper function to partition points and to calculate cost
 def partition_points(X, assignments, num_classes):
