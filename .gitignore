@@ -2,3 +2,5 @@ __pycache__
 road_signs
 data
 .DS_Store
+labels
+images
