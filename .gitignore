@@ -4,3 +4,11 @@ data
 .DS_Store
 labels
 images
+.ipynb_checkpoints
+bin
+etc
+include
+lib
+lib64
+share
+pyvenv.cfg
