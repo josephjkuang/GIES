@@ -1,5 +1,7 @@
 __pycache__
 data
+images
+labels
 
 # venv files
 lib
@@ -8,3 +10,4 @@ bin
 pyvenv.cfg
 share
 etc
+Visualization.py
